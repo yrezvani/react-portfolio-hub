@@ -1,18 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 .intro-card {
     display: flex;
-
+    flex-grow: 1;
+    flex-shrink: 1;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    gap: 35px;
 }
 
 .text-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 10px;
+    gap: 30px;
+    text-align: justify;
+
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+p {
+    font-size: 1.5rem;
+    line-height: 1.5;
 }
 
 .profile-image {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
     object-fit: cover;
+    border: 1px dashed red;
+}
+
+.skills-container {
+    display: flex;
+    gap: 15px;
+    position: relative;
+    bottom: -4rem;
+}
+
+.skill-icon {
+    width: 50px;
+    height: 50px;
 }

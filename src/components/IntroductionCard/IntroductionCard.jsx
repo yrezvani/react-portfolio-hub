@@ -6,7 +6,7 @@ import javascriptIcon from '../../assets/javascript.png';
 import reactIcon from '../../assets/react.png';
 import jqueryIcon from '../../assets/jquery.png';
 
-import './style.css'
+import './IntroductionCard.css'
 
 function IntroductionCard() {
     return (

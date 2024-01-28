@@ -50,6 +50,24 @@ p {
 
 @media screen and (max-width: 768px) {
 
+    .intro-card {
+        margin-top: 1.5rem;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .profile-image {
+        width: 150px;
+        height: auto;
+        margin: 0 auto;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 1px dashed red;
+        order: -1;
+
+    }
+
     .skills-container {
         top: 1rem;
     }
@@ -62,6 +80,7 @@ p {
     h1 {
         font-weight: 700;
         font-size: 1.5rem;
+        margin-bottom: -15px;
     }
 
     p {

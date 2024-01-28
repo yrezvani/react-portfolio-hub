@@ -24,7 +24,6 @@ function IntroductionCard() {
                     <img src={jqueryIcon} alt="jQuery" className="skill-icon" />
                 </div>
             </div>
-
             <img src={myPhoto} className="profile-image" />
         </div>
     )

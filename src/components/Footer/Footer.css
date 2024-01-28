@@ -1,0 +1,38 @@
+.site-footer {
+    background: #929da2;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 1200px;
+}
+
+.site-footer nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.site-footer .social-links a {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.site-footer p {
+    margin-left: auto;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+}
+
+.li-icon {
+    width: 50px;
+    height: 40px;
+}
+
+.social-links {
+    margin-top: 10px;
+}

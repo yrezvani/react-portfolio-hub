@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.hamburger-icon {
+    display: none;
+    cursor: pointer;
+    width: 60px;
+    height: 60px;
+    margin-top: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+    .hamburger-icon {
+        display: block;
+    }
+
+    .header-container {
+        display: flex;
+        position: relative;
+    }
+
+    .navbar {
+        display: none;
+        position: absolute;
+        right: 0;
+        top: 60px;
+        width: 200px;
+        height: 500px;
+    }
+
+    .navbar.open {
+        display: block;
+    }
+
+    .navbar-icon {
+        margin-top: 1rem;
+        width: 50px;
+        height: 50px;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .navbar ul {
+        list-style-type: none;
+        flex-direction: column;
+        gap: 5px;
+        font-size: 0.9rem;
+    }
+
+    .navbar-link {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 769px) {
+
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .navbar ul {
+        margin: 3rem 0;
+        display: flex;
+        gap: 2rem;
+        justify-content: end;
+        list-style: none;
+    }
+
+    .navbar-link {
+        text-decoration: none;
+        color: black;
+        font-size: 1.4rem;
+    }
+
+    .navbar-link:hover {
+        color: blue;
+    }
+
+    .navbar-icon {
+        margin-top: 1rem;
+        width: 60px;
+        height: 60px;
+    }
+
+}

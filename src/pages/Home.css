@@ -1,0 +1,11 @@
+.home-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.home-container::after {
+    content: '';
+    flex: 1;
+}

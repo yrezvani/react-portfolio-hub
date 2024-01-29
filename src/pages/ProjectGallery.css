@@ -5,6 +5,30 @@
     column-gap: 20px;
 }
 
+.screenshot {
+    width: 200px;
+    height: auto;
+}
+
+.project-title {
+    color: black;
+    padding: 10px;
+}
+
+.project-link {
+    text-decoration: none;
+}
+
+.project-title:hover {
+    color: blue;
+}
+
+.project {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 @media screen and (max-width: 768px) {
     .projects-container {
         grid-template-columns: 1fr;

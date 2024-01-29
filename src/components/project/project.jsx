@@ -1,9 +1,15 @@
 import React from "react";
 import { useState, useEffect } from 'react';
+import { useParams } from "react-router-dom";
 import './project.css'
 
 
-function Project({ project }) {
+function Project({ projects }) {
+    const { projectId } = useParams();
+    const project = projects.find(p => p.id === parseInt(projectId));
+
+
+
     const [imageUrl, setImageUrl] = useState('');
 
     useEffect(() => {
@@ -20,10 +26,8 @@ function Project({ project }) {
 
     return (
         <div className="project">
-            <div className="proj-text-container">
+            <div className="proj-title-container">
                 <h2>{project.title}</h2>
-                <a href={project.deployedLink}>Deployed Version </a>
-                <a href={project.githubLink}>Github Repository</a>
             </div>
             <img src={imageUrl} alt={project.title} className="screenshot" />
         </div>

@@ -1,0 +1,25 @@
+.screenshot {
+    width: 200px;
+    height: auto;
+}
+
+.project h2 {
+    padding: 10px;
+}
+
+.project a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 10px;
+}
+
+.project a:hover {
+    color: blue;
+}
+
+.project {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

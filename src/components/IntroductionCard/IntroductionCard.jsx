@@ -1,10 +1,10 @@
 import React from "react";
-import myPhoto from '../../assets/myphoto.jpg';
-import htmlIcon from '../../assets/html5.png';
-import cssIcon from '../../assets/css3.png';
-import javascriptIcon from '../../assets/javascript.png';
-import reactIcon from '../../assets/react.png';
-import jqueryIcon from '../../assets/jquery.png';
+import myPhoto from '../../assets/images/myphoto.jpg';
+import htmlIcon from '../../assets/images/html5.png';
+import cssIcon from '../../assets/images/css3.png';
+import javascriptIcon from '../../assets/images/javascript.png';
+import reactIcon from '../../assets/images/react.png';
+import jqueryIcon from '../../assets/images/jquery.png';
 
 import './IntroductionCard.css'
 

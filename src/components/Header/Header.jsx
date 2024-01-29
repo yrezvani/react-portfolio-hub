@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { BrowserRouter as Router, Link } from 'react-router-dom';
-import coderIcon from '../../assets/coder.svg';
-import hamburgerIcon from '../../assets/hamburger.svg';
+import coderIcon from '../../assets/images/coder.svg';
+import hamburgerIcon from '../../assets/images/hamburger.svg';
 import './Header.css'
 
 function Header() {
@@ -20,7 +20,7 @@ function Header() {
             <nav className={`navbar ${isMenuOpen ? 'open' : ''}`}>
                 <ul>
                     <li><Link to="/" className="navbar-link">Home</Link></li>
-                    <li><Link to="/projects" className="navbar-link">Project Gallery</Link></li>
+                    <li><Link to="/projectgallery" className="navbar-link">Project Gallery</Link></li>
                     <li><Link to="/contact" className="navbar-link">Contact</Link></li>
                 </ul>
             </nav>

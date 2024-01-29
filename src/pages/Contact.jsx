@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
-import githubIcon from "../assets/github.svg";
-import linkedinIcon from "../assets/linkedin.png";
-import twitterIcon from "../assets/twitter.svg";
-import emailIcon from "../assets/email.png";
+import githubIcon from "../assets/images/github.svg";
+import linkedinIcon from "../assets/images/linkedin.png";
+import twitterIcon from "../assets/images/twitter.svg";
+import emailIcon from "../assets/images/email.png";
 import './Contact.css'
 
 function Contact() {
@@ -25,8 +25,7 @@ function Contact() {
 
     const handleSubmit = (event) => {
         event.preventDefault();
-        // Handle form submission here (e.g., send data to a server)
-        console.log(formData); // For now, just log the form data to the console
+        console.log(formData);
     };
 
     return (

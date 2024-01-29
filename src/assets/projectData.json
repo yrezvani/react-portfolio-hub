@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Calculator",
+        "deployedLink": "https://yrezvani.github.io/calculator/",
+        "githubLink": "https://github.com/yrezvani/calculator",
+        "image": "calc.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Library",
+        "deployedLink": "https://yrezvani.github.io/library/",
+        "githubLink": "https://github.com/yrezvani/library",
+        "image": "library.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Etch a Sketch",
+        "deployedLink": "https://yrezvani.github.io/sketchpad-toy/",
+        "githubLink": "https://github.com/yrezvani/sketchpad-toy",
+        "image": "etch-a-sketch.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Sign-up form",
+        "deployedLink": "https://yrezvani.github.io/sign-up-form/",
+        "githubLink": "https://github.com/yrezvani/sign-up-form",
+        "image": "sign-up.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Rock Paper Scissors",
+        "deployedLink": "https://yrezvani.github.io/rock-paper-scissors/",
+        "githubLink": "https://github.com/yrezvani/rock-paper-scissors",
+        "image": "Rock.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Portfolio showcase",
+        "deployedLink": "https://yrezvani.github.io/portfolio-showcase/",
+        "githubLink": "https://github.com/yrezvani/portfolio-showcase",
+        "image": "portfolio-screenshot.jpg"
+    }
+]

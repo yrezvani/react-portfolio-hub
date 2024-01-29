@@ -1,9 +1,9 @@
 import React from "react";
 import './Footer.css';
-import githubIcon from "../../assets/github.svg";
-import linkedinIcon from "../../assets/linkedin.png";
-import twitterIcon from "../../assets/twitter.svg";
-import emailIcon from "../../assets/email.png";
+import githubIcon from "../../assets/images/github.svg";
+import linkedinIcon from "../../assets/images/linkedin.png";
+import twitterIcon from "../../assets/images/twitter.svg";
+import emailIcon from "../../assets/images/email.png";
 
 function Footer() {
     return (

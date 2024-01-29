@@ -9,10 +9,11 @@
     },
     {
         "id": 2,
-        "title": "Employee Info App",
-        "githubLink": "https://github.com/yrezvani/employee-info-app",
-        "image": "employee-app.png",
-        "description": "A calculator app built using HTML, CSS and Javascript. It is capable of carrying out all basic arithmetic operations."
+        "title": "Bootstrap Portfolio",
+        "deployedLink": "https://yrezvani.github.io/bootstrap-portfolio/",
+        "githubLink": "https://github.com/yrezvani/bootstrap-portfolio",
+        "image": "bootstrap-portfolio.png",
+        "description": "A webpage showcasing my portfolio of web apps using Bootstrap. You can find links to live deployments as well as my GitHub dashboard. I have taken a mobile-first, responsive design approach which was made easy by Bootstrap."
     },
     {
         "id": 3,
@@ -24,11 +25,10 @@
     },
     {
         "id": 4,
-        "title": "Library",
-        "deployedLink": "https://yrezvani.github.io/library/",
-        "githubLink": "https://github.com/yrezvani/library",
-        "image": "library.jpg",
-        "description": "A library app which stores your books and displays their information on cards, built using HTML, CSS and JavaScript."
+        "title": "Employee Info App",
+        "githubLink": "https://github.com/yrezvani/employee-info-app",
+        "image": "employee-app.png",
+        "description": "An app lets you input your employees' information and generates a HTML file that dispalys your employees' information. Every employee's info is displayed in a nicely formatted card with an icon representing the role of the employee."
     },
     {
         "id": 5,
@@ -40,26 +40,10 @@
     },
     {
         "id": 6,
-        "title": "Sign-up form",
-        "deployedLink": "https://yrezvani.github.io/sign-up-form/",
-        "githubLink": "https://github.com/yrezvani/sign-up-form",
-        "image": "sign-up.jpg",
-        "description": "A sign-up form customized in vanilla CSS, built using HTML, CSS and JavaScript."
-    },
-    {
-        "id": 7,
-        "title": "Rock Paper Scissors",
-        "deployedLink": "https://yrezvani.github.io/rock-paper-scissors/",
-        "githubLink": "https://github.com/yrezvani/rock-paper-scissors",
-        "image": "Rock.jpg",
-        "description": "Rock Paper Scissors game, playable against the AI, built using HTML, CSS and JavaScript."
-    },
-    {
-        "id": 8,
-        "title": "Portfolio Showcase",
-        "deployedLink": "https://yrezvani.github.io/portfolio-showcase/",
-        "githubLink": "https://github.com/yrezvani/portfolio-showcase",
-        "image": "portfolio-screenshot.jpg",
-        "description": "A portfolio of my web development work so far, showcasing apps I have put together."
+        "title": "Weather Dashboard",
+        "deployedLink": "https://yrezvani.github.io/weather-dashboard/",
+        "githubLink": "https://github.com/yrezvani/weather-dashboard",
+        "image": "weather.png",
+        "description": "A weather app that gives you weather conditions for the current time and for the following 5 days. The information included is temperature, wind speed, humidity, and weather condition (displayed with an icon)."
     }
 ]

@@ -1,44 +1,65 @@
 [
     {
         "id": 1,
-        "title": "Calculator",
-        "deployedLink": "https://yrezvani.github.io/calculator/",
-        "githubLink": "https://github.com/yrezvani/calculator",
-        "image": "calc.jpg"
+        "title": "Flick Finder",
+        "deployedLink": "https://dezmondo7.github.io/movie-recommender/",
+        "githubLink": "https://github.com/Dezmondo7/movie-recommender",
+        "image": "FlickFinder.png",
+        "description": "A movie recommendation app, where a user can search for a movie by Title and/or Year of release to get related movies the user can watch. This was a team project where I contributed about 50% of the work in a team of 5."
     },
     {
         "id": 2,
-        "title": "Library",
-        "deployedLink": "https://yrezvani.github.io/library/",
-        "githubLink": "https://github.com/yrezvani/library",
-        "image": "library.jpg"
+        "title": "Employee Info App",
+        "githubLink": "https://github.com/yrezvani/employee-info-app",
+        "image": "employee-app.png",
+        "description": "A calculator app built using HTML, CSS and Javascript. It is capable of carrying out all basic arithmetic operations."
     },
     {
         "id": 3,
-        "title": "Etch a Sketch",
-        "deployedLink": "https://yrezvani.github.io/sketchpad-toy/",
-        "githubLink": "https://github.com/yrezvani/sketchpad-toy",
-        "image": "etch-a-sketch.jpg"
+        "title": "Calculator",
+        "deployedLink": "https://yrezvani.github.io/calculator/",
+        "githubLink": "https://github.com/yrezvani/calculator",
+        "image": "calc.jpg",
+        "description": "A calculator app built using HTML, CSS and Javascript. It is capable of carrying out all basic arithmetic operations."
     },
     {
         "id": 4,
-        "title": "Sign-up form",
-        "deployedLink": "https://yrezvani.github.io/sign-up-form/",
-        "githubLink": "https://github.com/yrezvani/sign-up-form",
-        "image": "sign-up.jpg"
+        "title": "Library",
+        "deployedLink": "https://yrezvani.github.io/library/",
+        "githubLink": "https://github.com/yrezvani/library",
+        "image": "library.jpg",
+        "description": "A library app which stores your books and displays their information on cards, built using HTML, CSS and JavaScript."
     },
     {
         "id": 5,
-        "title": "Rock Paper Scissors",
-        "deployedLink": "https://yrezvani.github.io/rock-paper-scissors/",
-        "githubLink": "https://github.com/yrezvani/rock-paper-scissors",
-        "image": "Rock.jpg"
+        "title": "Etch a Sketch",
+        "deployedLink": "https://yrezvani.github.io/sketchpad-toy/",
+        "githubLink": "https://github.com/yrezvani/sketchpad-toy",
+        "image": "etch-a-sketch.jpg",
+        "description": "Etch-a-Sketch app, a mechanical drawing toy, built using HTML, CSS and JavaScript."
     },
     {
         "id": 6,
-        "title": "Portfolio showcase",
+        "title": "Sign-up form",
+        "deployedLink": "https://yrezvani.github.io/sign-up-form/",
+        "githubLink": "https://github.com/yrezvani/sign-up-form",
+        "image": "sign-up.jpg",
+        "description": "A sign-up form customized in vanilla CSS, built using HTML, CSS and JavaScript."
+    },
+    {
+        "id": 7,
+        "title": "Rock Paper Scissors",
+        "deployedLink": "https://yrezvani.github.io/rock-paper-scissors/",
+        "githubLink": "https://github.com/yrezvani/rock-paper-scissors",
+        "image": "Rock.jpg",
+        "description": "Rock Paper Scissors game, playable against the AI, built using HTML, CSS and JavaScript."
+    },
+    {
+        "id": 8,
+        "title": "Portfolio Showcase",
         "deployedLink": "https://yrezvani.github.io/portfolio-showcase/",
         "githubLink": "https://github.com/yrezvani/portfolio-showcase",
-        "image": "portfolio-screenshot.jpg"
+        "image": "portfolio-screenshot.jpg",
+        "description": "A portfolio of my web development work so far, showcasing apps I have put together."
     }
 ]

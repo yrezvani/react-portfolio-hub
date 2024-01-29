@@ -48,10 +48,32 @@ h1 {
     height: 50px;
 }
 
+.cv-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+    width: auto;
+    white-space: nowrap;
+    align-self: flex-start;
+}
+
+.cv-button:hover {
+    background-color: #45a049;
+    color: #ddd
+}
+
 @media screen and (max-width: 768px) {
 
     .intro-card {
-        margin-top: 6rem;
+        margin-top: 5rem;
         flex-direction: column;
         align-items: center;
         gap: 20px;
@@ -86,5 +108,17 @@ h1 {
     p {
         font-size: 1.2rem;
         line-height: 1.2;
+    }
+
+    .cv-button {
+        margin-top: 0;
+    }
+
+    .text-container {
+        gap: 15px;
+    }
+
+    .text-container h1 {
+        padding-bottom: 10px;
     }
 }

@@ -3,6 +3,7 @@
     grid-template-columns: repeat(2, 1fr);
     row-gap: 80px;
     column-gap: 20px;
+    margin-top: 2rem;
 }
 
 .screenshot {
@@ -42,4 +43,9 @@
         grid-template-columns: 1fr;
         padding-bottom: 120px;
     }
+
+    .project-title {
+        font-size: 1.1rem;
+    }
+
 }

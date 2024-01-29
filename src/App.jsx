@@ -4,7 +4,7 @@ import Contact from './pages/Contact';
 import ProjectGallery from './pages/ProjectGallery';
 import Project from './components/Project/Project';
 
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import projectsData from './assets/projectData.json';
 
 function App() {

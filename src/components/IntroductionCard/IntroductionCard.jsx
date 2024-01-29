@@ -15,6 +15,7 @@ function IntroductionCard() {
                 <div className="text-container">
                     <h1>Hello I'm Yasser</h1>
                     <p>I'm a passionate developer specializing in Web Development. Excited about creating elegant solutions to complex problems. Welcome to my portfolio, where I showcase my skills and projects.</p>
+                    <a href="https://drive.google.com/file/d/1SpHCDTpLAecW9d9eN8MEk37_-PqreD1O/view?usp=drive_link" className="cv-button">View My CV</a>
                 </div>
                 <div className="skills-container">
                     <img src={htmlIcon} alt="HTML5" className="skill-icon" />

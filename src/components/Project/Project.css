@@ -1,3 +1,4 @@
+/* styling for the project container */
 .project-container {
     display: flex;
     flex-direction: column;
@@ -9,6 +10,7 @@
     flex-direction: column;
 }
 
+/* styling for project screenshot */
 .project-details .screenshot {
     width: 400px;
     height: auto;
@@ -16,12 +18,14 @@
     margin: auto;
 }
 
+/* Styling for the project title */
 .project-container h2 {
     padding: 20px;
     text-align: center;
     font-size: 1.5rem;
 }
 
+/* Style Github links */
 .project-details a {
     text-decoration: none;
     color: black;
@@ -36,12 +40,14 @@
     color: blue;
 }
 
+/* Styling for the project description */
 .project-description {
     text-align: center;
     padding: 10px;
     font-size: 1.2rem;
 }
 
+/* Style the image container */
 .image-container {
     display: flex;
     justify-content: center;

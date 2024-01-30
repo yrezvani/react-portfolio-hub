@@ -17,12 +17,12 @@ function Footer() {
                 <a href="/contact">Contact</a>
             </nav>
             <div className="social-links">
-                <a href="https://www.linkedin.com/in/yasser-rezvani-773086b3/" aria-label="LinkedIn"><img src={linkedinIcon} alt="Linedin" className="li-icon" /></a>
-                <a href="https://github.com/yrezvani?tab=repositories" aria-label="GitHub"><img src={githubIcon} alt="Github" className="icon" /></a>
-                <a href="https://twitter.com/yaserrezvany" aria-label="Twitter"><img src={twitterIcon} alt="Twitter" className="icon" /></a>
-                <a href="mailto:yaserrezvany@gmail.com" aria-label="Email"><img src={emailIcon} alt="Twitter" className="icon" /></a>
+                <a href="https://www.linkedin.com/in/yasser-rezvani-773086b3/" aria-label="LinkedIn"><img src={linkedinIcon} alt="Linedin" className="footer-li-icon" /></a>
+                <a href="https://github.com/yrezvani?tab=repositories" aria-label="GitHub"><img src={githubIcon} alt="Github" className="footer-icon" /></a>
+                <a href="https://twitter.com/yaserrezvany" aria-label="Twitter"><img src={twitterIcon} alt="Twitter" className="footer-icon" /></a>
+                <a href="mailto:yaserrezvany@gmail.com" aria-label="Email"><img src={emailIcon} alt="Twitter" className="footer-icon" /></a>
                 <a href="https://drive.google.com/file/d/1SpHCDTpLAecW9d9eN8MEk37_-PqreD1O/view?usp=drive_link" aria-label="CV">
-                    <img src={cvIcon} alt="CV" className="icon" />
+                    <img src={cvIcon} alt="CV" className="footer-icon" />
                 </a>
             </div>
         </footer>

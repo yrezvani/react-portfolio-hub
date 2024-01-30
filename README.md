@@ -15,8 +15,8 @@ React Portfolio App is a simple, responsive web application designed to showcase
 - JavaScript
 - CSS
 
-## Installation
-This application does not require any special installation steps. Simply clone the repository and open the `index.html` file in a web browser to view the app.
+## Live Demo
+Visit the live version of the React Portfolio App here: [React Portfolio Hub](https://yrezvani.github.io/react-portfolio-hub/)
 
 ## Usage
 Navigate through the app using the menu to view different sections:

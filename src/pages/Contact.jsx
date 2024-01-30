@@ -78,7 +78,7 @@ function Contact() {
                         <a href="https://twitter.com/yaserrezvany" aria-label="Twitter" className="social-link" target="_blank" rel="noreferrer"><img src={twitterIcon} alt="Twitter" className="icon" /></a>
                         <a href="https://github.com/yrezvani?tab=repositories" aria-label="GitHub" className="social-link" target="_blank" rel="noreferrer"><img src={githubIcon} alt="Github" className="icon" /></a>
                         <a href="https://drive.google.com/file/d/1SpHCDTpLAecW9d9eN8MEk37_-PqreD1O/view?usp=sharing" aria-label="CV" target="_blank" rel="noreferrer">
-                            <img src={cvIcon} alt="CV" className="footer-icon" />
+                            <img src={cvIcon} alt="CV" className="icon" />
                         </a>
 
                     </div>

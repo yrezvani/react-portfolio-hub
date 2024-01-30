@@ -77,7 +77,7 @@ function Contact() {
                         <a href="https://www.linkedin.com/in/yasser-rezvani-773086b3/" aria-label="LinkedIn" className="social-link"><img src={linkedinIcon} alt="LinkedIn" className="li-icon" /></a>
                         <a href="https://twitter.com/yaserrezvany" aria-label="Twitter" className="social-link"><img src={twitterIcon} alt="Twitter" className="icon" /></a>
                         <a href="https://github.com/yrezvani?tab=repositories" aria-label="GitHub" className="social-link"><img src={githubIcon} alt="Github" className="icon" /></a>
-                        <a href="https://drive.google.com/file/d/1SpHCDTpLAecW9d9eN8MEk37_-PqreD1O/view?usp=drive_link" aria-label="CV">
+                        <a href="https://drive.google.com/file/d/1SpHCDTpLAecW9d9eN8MEk37_-PqreD1O/view?usp=sharing" aria-label="CV">
                             <img src={cvIcon} alt="CV" className="icon" />
                         </a>
                     </div>

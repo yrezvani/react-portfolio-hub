@@ -23,7 +23,7 @@ function Header() {
                     <li><Link to="/projectgallery" className="navbar-link">Project Gallery</Link></li>
                     <li><Link to="/contact" className="navbar-link">Contact</Link></li>
                     <li>
-                        <a href="https://drive.google.com/file/d/1SpHCDTpLAecW9d9eN8MEk37_-PqreD1O/view?usp=drive_link" className="navbar-link">CV</a>
+                        <a href="https://drive.google.com/file/d/1SpHCDTpLAecW9d9eN8MEk37_-PqreD1O/view?usp=sharing" className="navbar-link">CV</a>
                     </li>
                 </ul>
             </nav>

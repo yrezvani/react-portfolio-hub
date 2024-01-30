@@ -1,7 +1,7 @@
 # React Portfolio App
 
 ## Introduction
-React Portfolio App is a simple, responsive web application designed to showcase a portfolio of frontend apps. It features a clean and intuitive interface with a home page, a contact page, and a project gallery page. The application is built using React and is fully responsive, making it accessible on both desktop and mobile screens.
+React Portfolio App is a simple, responsive web application designed to showcase my portfolio of frontend apps. It features a clean and intuitive interface with a home page, a contact page, and a project gallery page. The application is built using React and is fully responsive, making it accessible on both desktop and mobile screens.
 
 ## Features
 - **Home Page**: A welcoming landing page that introduces visitors to the portfolio.

@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
+/* Styling for the hamburger menu icon */
 .hamburger-icon {
     display: none;
     cursor: pointer;
@@ -8,16 +7,21 @@
     margin-top: 1rem;
 }
 
+/* Styling for navigation links */
 .navbar-link {
     text-decoration: none;
     color: black;
 }
 
+/* Hover effect for navigation links */
 .navbar-link:hover {
     color: blue;
 }
 
+/* Media query for Mobile devices */
 @media screen and (max-width: 768px) {
+
+    /* Display hamburger menu icon */
     .hamburger-icon {
         display: block;
     }
@@ -27,6 +31,7 @@
         position: relative;
     }
 
+    /* Styling for the mobile navbar */
     .navbar {
         visibility: hidden;
         opacity: 0;
@@ -38,6 +43,7 @@
         transition: opacity 0.5s ease, top 0.5s ease, visibility 0s linear 0.5s;
     }
 
+    /* Styling for the open mobile navbar */
     .navbar.open {
         visibility: visible;
         position: absolute;
@@ -59,6 +65,7 @@
         transition: transform 0.5s ease;
     }
 
+    /* Styling for the mobile navbar links */
     .navbar ul {
         list-style-type: none;
         display: flex;
@@ -77,16 +84,18 @@
     }
 }
 
+/* Media query for screens with a minimum width of 769px (Desktop styles) */
 @media screen and (min-width: 769px) {
 
+    /* Styling for the header container on desktop */
     .header-container {
         display: flex;
         justify-content: space-between;
         align-items: center;
         font-family: 'Roboto', sans-serif;
-        /* width: 1200px; */
     }
 
+    /* Styling for the desktop navbar links */
     .navbar ul {
         margin: 3rem 0;
         display: flex;

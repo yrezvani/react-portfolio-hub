@@ -34,7 +34,7 @@ function Header() {
                     <li><Link to="/contact" className="navbar-link">Contact</Link></li>
                     {/* link to CV */}
                     <li>
-                        <a href="https://drive.google.com/file/d/1SpHCDTpLAecW9d9eN8MEk37_-PqreD1O/view?usp=sharing" className="navbar-link">CV</a>
+                        <a href="https://drive.google.com/file/d/1SpHCDTpLAecW9d9eN8MEk37_-PqreD1O/view?usp=sharing" className="navbar-link" target="_blank" rel="noreferrer">CV</a>
                     </li>
                 </ul>
             </nav>

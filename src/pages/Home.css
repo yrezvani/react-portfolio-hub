@@ -1,13 +1,7 @@
 /* Styling for the Home page container */
 .home-container {
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-}
-
-/* Centering introduction within home page */
-.home-container::after {
-    content: '';
-    flex: 1;
+    justify-content: space-between;
 }

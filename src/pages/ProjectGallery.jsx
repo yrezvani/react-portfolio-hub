@@ -18,7 +18,7 @@ function ProjectGallery() {
     };
 
     return (
-        <div>
+        <div className="gallery-container" >
             <Header />
             <div className="projects-container">
                 {/* Map through project data and create project links */}

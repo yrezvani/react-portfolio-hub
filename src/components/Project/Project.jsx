@@ -48,7 +48,7 @@ function Project({ projects }) {
                 <div className="image-container">
                     {/* Display the project screenshot with a link to the deployed version */}
                     <a href={project.deployedLink} target="_blank" rel="noopener noreferrer">
-                        <img src={imageUrl} alt={project.title} className="screenshot" />
+                        <img src={imageUrl} alt={project.title} className="full-screensht" />
                     </a>
                 </div>
                 <div className="project-details">

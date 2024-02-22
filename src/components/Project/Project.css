@@ -10,13 +10,6 @@
     flex-direction: column;
 }
 
-/* styling for project screenshot */
-.project-details .screenshot {
-    width: 400px;
-    height: auto;
-    padding-bottom: 2rem;
-    margin: auto;
-}
 
 /* Styling for the project title */
 .project-container h2 {
@@ -51,4 +44,11 @@
 .image-container {
     display: flex;
     justify-content: center;
+}
+
+.full-screensht {
+    width: 500px;
+    height: auto;
+    padding-bottom: 2rem;
+    margin: auto;
 }

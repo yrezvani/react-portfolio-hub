@@ -1,19 +1,19 @@
 [
     {
         "id": 1,
+        "title": "Curated",
+        "deployedLink": "https://curatedcanvas.netlify.app/",
+        "githubLink": "https://github.com/yrezvani/curated",
+        "image": "curated.png",
+        "description": "Curated is an innovative React application that interfaces with the Harvard Art Museums API to display a diverse array of artworks. It features a user-friendly, responsive interface that allows users to browse, search, and select artworks to create personalised galleries."
+    },
+    {
+        "id": 2,
         "title": "Flick Finder",
         "deployedLink": "https://dezmondo7.github.io/movie-recommender/",
         "githubLink": "https://github.com/Dezmondo7/movie-recommender",
         "image": "FlickFinder.png",
         "description": "A movie recommendation app, where a user can search for a movie by Title and/or Year of release to get related movies the user can watch. This was a team project where I contributed about 50% of the work in a team of 5."
-    },
-    {
-        "id": 2,
-        "title": "Bootstrap Portfolio",
-        "deployedLink": "https://yrezvani.github.io/bootstrap-portfolio/",
-        "githubLink": "https://github.com/yrezvani/bootstrap-portfolio",
-        "image": "bootstrap-portfolio.png",
-        "description": "A webpage showcasing my portfolio of web apps using Bootstrap. You can find links to live deployments as well as my GitHub dashboard. I have taken a mobile-first, responsive design approach which was made easy by Bootstrap."
     },
     {
         "id": 3,
@@ -32,11 +32,11 @@
     },
     {
         "id": 5,
-        "title": "Etch a Sketch",
-        "deployedLink": "https://yrezvani.github.io/sketchpad-toy/",
-        "githubLink": "https://github.com/yrezvani/sketchpad-toy",
-        "image": "etch-a-sketch.jpg",
-        "description": "Etch-a-Sketch app, a mechanical drawing toy, built using HTML, CSS and JavaScript."
+        "title": "Bootstrap Portfolio",
+        "deployedLink": "https://yrezvani.github.io/bootstrap-portfolio/",
+        "githubLink": "https://github.com/yrezvani/bootstrap-portfolio",
+        "image": "bootstrap-portfolio.png",
+        "description": "A webpage showcasing my portfolio of web apps using Bootstrap. You can find links to live deployments as well as my GitHub dashboard. I have taken a mobile-first, responsive design approach which was made easy by Bootstrap."
     },
     {
         "id": 6,
